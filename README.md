@@ -11,10 +11,7 @@ E você deseja enviar a eles um e-mail de feliz aniversário na data de nascimen
 
  Happy birthday, dear <first_name>!
 
-Como seria esse software? Tente implementá-lo para que você possa alterar facilmente:
-
-    a maneira como você recupera os dados dos amigos (por exemplo, tente mudar para um banco de dados SQLite)
-    a forma como você envia a nota: (por exemplo, imagine que você deseja enviar SMS em vez de e-mails)
+Como seria esse software? Tente implementá-lo para que você possa alterar facilmente
 
 Que tipo de testes você escreveria? Você usaria Mocks?
 Características adicionais
